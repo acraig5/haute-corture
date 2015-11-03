@@ -1,0 +1,46 @@
+/*
+    Color Palette
+    ----
+    Primary Color (purple): #44318C
+    Secondary Color: #0C030B
+    Accent Color: #F3DD9E
+
+    Typography
+    ----
+    Headlines: font-family: 'Playfair Display', serif;
+    Body Copy: font-family: 'Merriweather Sans', sans-serif;
+
+    Background
+    ----
+    Background: #280E2A
+
+    
+*/
+/*Global or Site*/
+body{
+    background:#280E2A 
+}
+
+
+/*Typography*/
+h1, h2{
+    color: #F3DD9E;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+}
+
+p, blockquote{
+    color: antiquewhite;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    
+}
+
+blockquote{
+    font-size: 2em;
+    padding: 0 4em;
+    text-align: center; 
+}
